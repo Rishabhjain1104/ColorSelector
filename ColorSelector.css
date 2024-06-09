@@ -1,0 +1,31 @@
+body{
+    align-items: center;
+    display: block;
+}
+
+div{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    margin: 3px;
+}
+
+#pink{
+    background-color: pink;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#black{
+    background-color: black;
+}
+
+#red{
+    background-color: red;
+}
+
+#yellow{
+    background-color: yellow;
+}
